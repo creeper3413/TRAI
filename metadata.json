@@ -1,0 +1,6 @@
+{
+  "name": "Trai - Akıllı Yapay Zeka Asistanı",
+  "description": "Sesli iletişim, kod ve oyun geliştirme, derin araştırma, günlük iş organizasyonu ve anlık bulut senkronizasyonlu yeni nesil akıllı AI asistanı Trai.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
